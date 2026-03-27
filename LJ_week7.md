@@ -9,10 +9,19 @@ https://www.w3schools.com/php/php_forms.asp
 ## Estimated Hours: 3
 
 ## Content Insights:
-This week I had my first group meeting in which we decided on what local development environment, Wordpress starter theme, hosting option, and project management tools to use. We chose Docker, Underscores, Cloudaccess.net, and Trello respectively. I also spent some time learning the basics of php, such as basic printing, if/else statements, loops, making/calling functions, and connecting files. It was all relatively simple and lines up well with other languages I know, apart from a few specifics, such as php variables needing a '$_'. 
+This week I learned how to use php more indepth. 
+php code is never sent to a client's web browser, only the output is. 
+There are different types of php code declaration blocks: standard, script, short, and ASP-style. 
+Delimiters are characters used to make the beginning and end of a code segment. 
+Individual lines of php script are called statements. 
+All variables require a '$_' before their name. 
+php has similar logical operators to other languages (&&, ||, !).
+php also has similar structured loops and switch statements. 
 
 ## Career/Employability/Learning Insights:
-With my recent start of the group project, I am learning how to be part of a development team. We chose our tools by analyzing the properties of each option before selecting one via the democratic process. We have already started to divide up labor as well and are seeking to assign proper roles at our next meeting. This project will provide me with an insight into how real world projects are completed so I will know what to do in a few years time. 
+With my recent start of the group project, I am learning how to be part of a development team. We chose our tools by analyzing the properties of each option before selecting one via the democratic process. This went over well, but afterwards we noticed that one of our selections had a paywall, which made us realize we should have done more research. Additionally, it was hard getting all of us to vote on the issues due to sparse communication, a problem we are working to fix. Problems like these are necessary learning experiences and we can only improve by facing them head on.
+
+
 
 
 

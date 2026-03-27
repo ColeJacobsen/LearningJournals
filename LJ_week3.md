@@ -6,7 +6,7 @@ This week I learned the some of the more intrict aspects of WordPress while crea
 https://developer.hashicorp.com/vagrant/tutorials/get-started/install
 https://www.linkedin.com/learning/wordpress-workflows-2015/welcome?u=2223545
 
-## Estimated Hours: 7
+## Estimated Hours: 4
 
 ## Content Insights:
 While I have learned some new parts of WordPress, such as embedded posts, I have had a bit of experience with the software already from some prior classes. Learning how to set up the virtual machines was interesting and lays the foundation for more growth. What particularly interested me though was the group interviews. While only a few minutes long, I was able to glean some valuable info from my classmates. When I asked them to rate their confidence in the subject, most people would answer around the 4-6 range, almost as if they didn't want to seem overconfident. Additionally, most of the other students asked me almost exclusively about topics relating to the subject, except for one, who instead asked me personal questions about my hobbies and free time. One of the most interesting patterns is that almost all the other students let me ask questions first, this combined with nearly everyone saying they preffered colead/support roles in group projects, showed me that the students in this class, and maybe even the major as a whole, tend to be more on the passive and socially reserved side. Knowing this will serve me well when it is time to do work on the project as it lets me know I may have to be more assertive to make sure decisions get made and work gets done.  
